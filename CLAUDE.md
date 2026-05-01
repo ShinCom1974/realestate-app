@@ -114,6 +114,13 @@ git push origin <ブランチ名>
 
 ---
 
+## デプロイ情報
+
+- **本番URL**: https://ephemeral-fox-3e6889.netlify.app/
+- **Supabaseプロジェクト名**: realestate-app
+
+---
+
 ## 環境変数
 
 `.env` ファイルは **Git 管理対象外**。`.env.example` にキー名だけ記載して共有する。
